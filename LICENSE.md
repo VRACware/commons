@@ -1,7 +1,7 @@
 MIT License
 
 Copyright (c) 2024 VRACware  
-Contact email: <span style="unicode-bidi:bidi-override; direction: rtl;">mocTODliamgTAerawcarv</span>
+[Contact email](./mailimage.png)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
